@@ -1,0 +1,7 @@
+Starta program med meddelande
+Påbörja loop
+`input()`för att fråga användare efter namn och ålder
+Om användare skriver "stop" avslutas programmet `if userinput == "stop"`
+Ta "`input() - 100 = output`"
+Ta "`output + 2026 = year`
+Få ut vilket år användaren fyller 100
